@@ -1,6 +1,6 @@
 # 📈 Market Intelligence Monitor V2: Macro & Risk Engine
 
-Este ecosistema avanzado de **Inteligencia de Mercados** automatiza la extracción, procesamiento y visualización de datos cross-asset para generar reportes ejecutivos de alta fidelidad de 11 páginas. La versión 2.0 introduce modelos de **liquidez de mercado**, **análisis avanzado de la curva de tipos** y un framework de **probabilidad de escenarios** (Bull/Base/Bear).
+Este ecosistema de **Inteligencia de Mercados** automatiza la extracción, procesamiento y visualización de datos cross-asset para generar reportes de alta fidelidad de 11 páginas. La versión 2.0 introduce modelos de **liquidez de mercado**, **análisis avanzado de la curva de tipos** y un framework de **probabilidad de escenarios** (Bull/Base/Bear).
 
 > **🎯 Propósito:** Transformar el ruido del mercado en señales accionables mediante el análisis de regímenes macro, estrés de portafolio y volatilidad implícita.
 
